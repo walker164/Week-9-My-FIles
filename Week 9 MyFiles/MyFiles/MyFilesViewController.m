@@ -2,7 +2,7 @@
 //  MyFilesViewController.m
 //  MyFiles
 //
-//  Created by Charles Konkol on 3/25/13.
+//  Created by Sean Gray 10.21.2013.
 //  Copyright (c) 2013 RVC Student. All rights reserved.
 //  Updated October 2013 
 
